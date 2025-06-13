@@ -6,7 +6,7 @@ I'm a multifaceted professional passionate about **creating value through techno
 
 - 🔭 I’m currently working on all project related to Technology and Science
 - 👯 I’m looking to collaborate on any project work
-- 🤔 I’m looking for help with to build my Portfolio
+- 🤔 I’m looking for help in all way to build my Portfolio as a Consultant
 
 ## 🔧 What I Do:
 - ⚙️ Develop custom software solutions and smart systems  
