@@ -29,4 +29,16 @@ I'm a multifaceted professional passionate about **creating value through techno
 - 📧 `creating.tech.synergy@gmail.com` (Business email)
 - 📧 `olakunle4sunday@gmail.com, olakunle4olalekan@gmail.com` (Personal email)
 
+### 🧠 Languages & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-basic.png" alt="Visual Basic" width="20"/>
+</p>
+
 > *"Tech is the tool. Synergy is the strategy. Value is the outcome."*
